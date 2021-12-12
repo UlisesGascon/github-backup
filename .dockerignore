@@ -1,0 +1,7 @@
+# ignore .git, .cache, pipelines folders
+.git
+.cache
+.github
+repos
+logs
+.DS_Store 
